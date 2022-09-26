@@ -1,0 +1,12 @@
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\bin\Debug\net6.0\CotizadorModel.deps.json
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\bin\Debug\net6.0\CotizadorModel.dll
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\bin\Debug\net6.0\CotizadorModel.pdb
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\obj\Debug\net6.0\CotizadorModel.csproj.AssemblyReference.cache
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\obj\Debug\net6.0\CotizadorModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\obj\Debug\net6.0\CotizadorModel.AssemblyInfoInputs.cache
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\obj\Debug\net6.0\CotizadorModel.AssemblyInfo.cs
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\obj\Debug\net6.0\CotizadorModel.csproj.CoreCompileInputs.cache
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\obj\Debug\net6.0\CotizadorModel.dll
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\obj\Debug\net6.0\refint\CotizadorModel.dll
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\obj\Debug\net6.0\CotizadorModel.pdb
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorModel\obj\Debug\net6.0\ref\CotizadorModel.dll

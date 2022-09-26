@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CotizadorPresenter/1.0.0": {
+        "dependencies": {
+          "CotizadorModel": "1.0.0"
+        },
+        "runtime": {
+          "CotizadorPresenter.dll": {}
+        }
+      },
+      "CotizadorModel/1.0.0": {
+        "runtime": {
+          "CotizadorModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CotizadorPresenter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CotizadorModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

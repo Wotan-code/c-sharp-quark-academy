@@ -1,0 +1,15 @@
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\bin\Debug\net6.0\CotizadorPresenter.deps.json
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\bin\Debug\net6.0\CotizadorPresenter.dll
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\bin\Debug\net6.0\CotizadorPresenter.pdb
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\bin\Debug\net6.0\CotizadorModel.dll
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\bin\Debug\net6.0\CotizadorModel.pdb
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\obj\Debug\net6.0\CotizadorPresenter.csproj.AssemblyReference.cache
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\obj\Debug\net6.0\CotizadorPresenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\obj\Debug\net6.0\CotizadorPresenter.AssemblyInfoInputs.cache
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\obj\Debug\net6.0\CotizadorPresenter.AssemblyInfo.cs
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\obj\Debug\net6.0\CotizadorPresenter.csproj.CoreCompileInputs.cache
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\obj\Debug\net6.0\CotizadorPresenter.csproj.CopyComplete
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\obj\Debug\net6.0\CotizadorPresenter.dll
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\obj\Debug\net6.0\refint\CotizadorPresenter.dll
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\obj\Debug\net6.0\CotizadorPresenter.pdb
+C:\Users\Wotan\Proyectos\QuarkAcademy\c-sharp-quark-academy\Solucion\CotizadorExpress\CotizadorPresenter\obj\Debug\net6.0\ref\CotizadorPresenter.dll
